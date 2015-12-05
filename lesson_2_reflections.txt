@@ -1,0 +1,11 @@
+Q:	What happens when you intitialize a repository? Why do you need to do it?
+A:	You make Git watch it, you put it on Git's radar so to speak. You need to
+	do this if you want to keep track of changes.
+
+Q:	How is the staging area different from the working directory and the
+	repository? What value do you think it offers?
+A:	It represents a state, rather than a place, it gives you more control over
+	your process.
+
+Q:
+A:
