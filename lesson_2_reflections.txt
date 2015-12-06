@@ -25,3 +25,8 @@ Q:	What is the result of merging two branches together? Why do we represent it
 A:	You have one branch left instead of two and it contains all the improvements
 	of both. We represent it the way we do because the two branches are no
 	longer seperate from each other.
+
+Q:	What are the pros and cons of Git's automatic merging vs. always doing
+	merges manually?
+A:	Pro: automatic makes sure there is no double code and it's easier, Con: it's
+	a machine that's doing the work, so it could go wrong somewhere?
