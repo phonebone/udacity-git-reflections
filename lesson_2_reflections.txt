@@ -7,5 +7,21 @@ Q:	How is the staging area different from the working directory and the
 A:	It represents a state, rather than a place, it gives you more control over
 	your process.
 
-Q:
-A:
+Q:	How can you use the staging area to make sure you have one commit per
+	logical change?
+A:	Add the right files – and only the right files - to the staging area, after
+	the logical changes you made, and then commit them one after the other
+
+Q:	What are some situations when branches would be helpful in keeping your
+	history organized? How would branches help?
+A:	When you want to try something experimental or more generally when you want
+	to keep your code as it is but built something on it simultaneously.
+
+Q:	How do the diagrams help you visualise the branch structure?
+A:	You can see which commits are connected and to what other commits.
+
+Q:	What is the result of merging two branches together? Why do we represent it
+	in the diagram the way we do?
+A:	You have one branch left instead of two and it contains all the improvements
+	of both. We represent it the way we do because the two branches are no
+	longer seperate from each other.
